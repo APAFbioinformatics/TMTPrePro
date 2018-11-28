@@ -1,0 +1,10 @@
+Package: TMTPrePro
+Type: Package
+Title: R package for TMT multiplex data analysis
+Version: 1.0
+Date: 2015-09-25
+Author: Dana Pascovici, Jemma Wu
+Maintainer: Dana Pascovici <dpascovici@proteome.org.au>
+Depends: openxlsx
+Description: More about what it does (maybe more than one line)
+License: What license is it under?

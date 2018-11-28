@@ -1,0 +1,4 @@
+Name,Type,Numerator.Label,Denominator.Label
+Comp1,Single,127_C,126
+Comp2,OneSampleTTest,127_C 127_N,126 128_C
+Comp3,Paired,127_C 127_N,126 128_C
